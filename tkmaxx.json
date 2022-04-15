@@ -3,27 +3,18 @@
 	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "1419096d9",
+
+	"APP_KEY": "1467d8eb1",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"APPLOVIN_BANNER": "5b6381608163d1e5",
-	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
 
-	"whichAds": 1,
-	
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"APPLOVIN_BANNER": "323106022363a79a",
+	"APPLOVIN_INTERSTITIAL": "e00311c997f30f44",
 
-	"BUTTON_NAME_1": "Open Store",
-	"BUTTON_NAME_2": "Shop Now",
 
-	"URL" : "https://www.tkmaxx.com/",
 
-	"isAdsActivated1":true,
-	"isAdsActivated2":false
 
+
+	       "whichAds": 0
 }
