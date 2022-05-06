@@ -3,19 +3,27 @@
 	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
 
-
-	"APP_KEY": "1467d8eb1",
+	"APP_KEY": "14a45ecd9",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
+	"APPLOVIN_BANNER": "d2a87cd6030ca133",
+	"APPLOVIN_INTERSTITIAL": "a2ab5de5a511b8cf",
 
-	"APPLOVIN_BANNER": "323106022363a79a",
-	"APPLOVIN_INTERSTITIAL": "e00311c997f30f44",
+	"whichAds": 2,
+	
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
 
+	"BUTTON_NAME_1": "",
+	"BUTTON_NAME_2": "Shop Now",
 
+	"URL" : "https://www.hobbylobby.com",
 
-
-
-	       "whichAds": 2
+	"isAdsActivated1":true,
+	"isAdsActivated2":true
 
 }
